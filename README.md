@@ -1,4 +1,5 @@
-[WHO-COVID-19--GLOBAL-DATA_1 (1).pdf](https://github.com/user-attachments/files/18238902/WHO-COVID-19--GLOBAL-DATA_1.1.pdf)The uploaded file appears to be a Power BI dashboard report that visualizes the global impact of COVID-19. Below is an explanation of its key components and insights:
+[Link Text](https://github.com/banelatika/powerbiprojcts/blob/a20439efd8780ef90e8a0415c4e211fef72d1bb9/WHO-COVID-19--GLOBAL-DATA_1%20(1).pdf)
+The uploaded file appears to be a Power BI dashboard report that visualizes the global impact of COVID-19. Below is an explanation of its key components and insights:
 ![Image Alt](https://github.com/banelatika/powerbiprojcts/blob/a20439efd8780ef90e8a0415c4e211fef72d1bb9/1.jpg)
 
  1. COVID-19 Cases and Deaths Over Time

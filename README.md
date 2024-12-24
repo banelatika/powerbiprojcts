@@ -1,4 +1,4 @@
-[Link Text](https://github.com/banelatika/powerbiprojcts/blob/a20439efd8780ef90e8a0415c4e211fef72d1bb9/WHO-COVID-19--GLOBAL-DATA_1%20(1).pdf)
+[View the WHO COVID-19 Global Data PDF](https://github.com/banelatika/powerbiprojcts/blob/a20439efd8780ef90e8a0415c4e211fef72d1bb9/WHO-COVID-19--GLOBAL-DATA_1%20(1).pdf?raw=true)
 The uploaded file appears to be a Power BI dashboard report that visualizes the global impact of COVID-19. Below is an explanation of its key components and insights:
 ![Image Alt](https://github.com/banelatika/powerbiprojcts/blob/a20439efd8780ef90e8a0415c4e211fef72d1bb9/1.jpg)
 
